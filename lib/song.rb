@@ -5,7 +5,6 @@ class Song
 
     def inititalize(title)
         @title = title
-        artist = Artist.new
     end
 
 end

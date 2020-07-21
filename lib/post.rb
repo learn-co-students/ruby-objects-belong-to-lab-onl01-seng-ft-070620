@@ -5,7 +5,6 @@ class Post
 
     def inititalize(title)
         @title = title
-        author = Author.new
     end
 
 end
